@@ -1,0 +1,2 @@
+net.charaf.dao.DaoImplv2
+net.charaf.metier.MetierImpl
