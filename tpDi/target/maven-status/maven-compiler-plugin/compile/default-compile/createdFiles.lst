@@ -1,0 +1,8 @@
+net\charaf\metier\MetierImpl.class
+net\charaf\dao\DaoImpl.class
+net\charaf\presentation\PresentationV1.class
+net\charaf\dao\DaoImplv2.class
+net\charaf\metier\MetierImplv2.class
+net\charaf\presentation\PresentationV2.class
+net\charaf\metier\IMetier.class
+net\charaf\dao\IDao.class
